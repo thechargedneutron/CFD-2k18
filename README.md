@@ -17,3 +17,5 @@ We will be using this data for our model and prediction.
 ## Approach
 
 We are aiming to develop a Machine Learning based model to predict Wildfire along with its intensity. The dataset contains reading for various sources including satellite images and GIS Data. Our model will take care of the Time Stamps along with the implementation. 
+
+CNN Networks will be trained to detect forest fires from Satellite imagery and this would help in early detection of wildfire. The GIS attributes will also be utilized during the prepraration to explore the possiblity of predicting Wildfire even before analysis from the Imagery data.
